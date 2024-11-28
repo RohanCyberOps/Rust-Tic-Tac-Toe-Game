@@ -1,0 +1,7 @@
+[package]
+name = "tictactoe"
+version = "0.3.0"
+authors = ["flofriday <flohacksfriday@gmail.com>"]
+
+[dependencies]
+termcolor = "0.3"
