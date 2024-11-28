@@ -2,7 +2,7 @@
 
 # 🕹️ **Rust Tic-Tac-Toe Game**
 
-![Screenshot](./img/screenshot.png)
+![Screenshot](ScreenShot.png)
 
 Welcome to the **Rust Tic-Tac-Toe Game**! 🎮 This is my **first Rust project**, created to practice and learn the fundamentals of the Rust programming language. It's a simple, console-based game of Tic-Tac-Toe where you can play against another player in your terminal. 😄
 
